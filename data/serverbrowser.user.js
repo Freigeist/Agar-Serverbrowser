@@ -6,7 +6,7 @@
 // @updateURL   https://freigeist.github.io/Agar-Serverbrowser/data/serverbrowser.meta.js
 // @include     http://agar.io/*
 // @include     https://agar.io/*
-// @version     0.1
+// @version     0.1.1
 // @grant       none
 // ==/UserScript==
 
@@ -19,6 +19,7 @@ function clickConnect() {
 	if (isNaN(id)) return;
 	if (!serverList[id]) return;
 	connect("ws://" + serverList[id].ip);
+	serverBrowser.style.display = "none";
 }
 
 function clickReload() {
