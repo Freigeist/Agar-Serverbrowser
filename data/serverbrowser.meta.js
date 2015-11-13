@@ -6,6 +6,6 @@
 // @updateURL   https://freigeist.github.io/Agar-Serverbrowser/data/serverbrowser.meta.js
 // @include     http://agar.io/*
 // @include     https://agar.io/*
-// @version     0.1
+// @version     0.2
 // @grant       none
 // ==/UserScript==
