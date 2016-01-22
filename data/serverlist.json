@@ -1,18 +1,106 @@
 [
   {
-    "name": "Nathat23's Server",
-    "ip": "185.52.0.205:443"
-  },
-  {
     "name": "Q79X's Server",
     "ip": "vps56296.vps.ovh.ca:443"
+  },
+  {
+    "name": "dogey_'s Server",
+    "ip": "vps232504.ovh.net:443"
+  },
+  {
+    "name": "niceoneson's Server (1)",
+    "ip": "185.38.150.87:443"
+  },
+  {
+    "name": "niceoneson's Server (2|W=Virus)",
+    "ip": "wv1.unnamedcell.com:443"
+  },
+  {
+    "name": "niceoneson's Server (3|W=Virus)",
+    "ip": "185.38.150.94:443"
   },
   {
     "name": "Willsr71's Server",
     "ip": "agario.willsr71.net:443"
   },
   {
-    "name": "sterlingtoth's Server",
-    "ip": "5tat.ddns.net:4800"
+    "name": "luulzyyy's Server",
+    "ip": "85.118.134.178:999"
+  },
+  {
+    "name": "HelpMeGetALife's Server",
+    "ip": "parisgamma.iomods.com:1501"
+  },
+  {
+    "name": "AgaryServer's Server (FR|FFA)",
+    "ip": "fr.agary.info:447"
+  },
+  {
+    "name": "AgaryServer's Server (FR|Experimental)",
+    "ip": "fr.agary.info:448"
+  },
+  {
+    "name": "AgaryServer's Server (CA|W=Virus)",
+    "ip": "ca.agary.info:448"
+  },
+  {
+    "name": "AgaryServer's Server (CA|FFA)",
+    "ip": "ca.agary.info:447"
+  },
+  {
+    "name": "AgaryServer's Server (CA|Experimental)",
+    "ip": "ca.agary.info:448"
+  },
+  {
+    "name": "IllIlIllIIIlIl's Server (Juggernaut)",
+    "ip": "vps62061.vps.ovh.ca:443"
+  },
+  {
+    "name": "MysticKnightGaming's Server (US|FFA)",
+    "ip": "us1.joshuamfawcett.net:4443"
+  },
+  {
+    "name": "MysticKnightGaming's Server (US|Teams)",
+    "ip": "us1.joshuamfawcett.net:4444"
+  },
+  {
+    "name": "MysticKnightGaming's Server (US|Crazy Mode)",
+    "ip": "us1.joshuamfawcett.net:4445"
+  },
+  {
+    "name": "MysticKnightGaming's Server (FR|FFA)",
+    "ip": "fr1.joshuamfawcett.net:4443"
+  },
+  {
+    "name": "MysticKnightGaming's Server (FR|Teams)",
+    "ip": "fr1.joshuamfawcett.net:4444"
+  },
+  {
+    "name": "MysticKnightGaming's Server (FR|Hunger Games)",
+    "ip": "fr1.joshuamfawcett.net:4445"
+  },
+  {
+    "name": "ginger7890's Server (Hunger Games 1)",
+    "ip": "dmr.secureobscure.com:4444"
+  },
+  {
+    "name": "ginger7890's Server (Hunger Games 2)",
+    "ip": "dmr.secureobscure.com:4111"
+  },
+  {
+    "name": "ginger7890's Server (FFA 1)",
+    "ip": "dmr.secureobscure.com:4001"
+  },
+  {
+    "name": "ginger7890's Server (FFA 2)",
+    "ip": "dmr.secureobscure.com:4002"
+  },
+  {
+    "name": "AgarAllyYT's Server",
+    "ip": "66.150.214.226:4545"
+  },
+  {
+    "name": "astroroxy's Server",
+    "ip": "play.flipsidetech.com:443"
   }
 ]
